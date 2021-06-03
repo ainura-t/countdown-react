@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.box {
+  width: 70%;
+  height: 150px;
+  background: lightgrey;
+  margin: auto;
+  text-align: center;
+}
+h1 {
+  padding-top: 30px;
+  cursor: pointer;
+}
+button {
+  padding: 10px 25px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background: red;
+  font-weight: bold;
+  cursor: pointer;
+}
+button:hover {
+  background: darkred;
+}
